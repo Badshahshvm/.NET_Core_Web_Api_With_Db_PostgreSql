@@ -1,4 +1,4 @@
-1. dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+1. dotnet add package Npgsql.EntityFrameworkCore.PostgreSQ;'
 
 //Add ConectionString in Appsetting.json
 
